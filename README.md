@@ -1,2 +1,2 @@
-# crispychicken.github.io
+# Info
 A Website for things I make.
