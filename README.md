@@ -1,5 +1,2 @@
 # CrispyChicken
-A Website for things I make.
-
-Games
-[Rougelike turn based game](/OpenRpg/index.html)
+A Repo/Website for things I make.
